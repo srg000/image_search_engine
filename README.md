@@ -6,10 +6,10 @@
 https://aistudio.baidu.com/datasetdetail/119023
 
 ## 使用clip模型进行预测
-![image](https://github.com/srg000/image_search_engine/assets/73764670/abbeac9a-839c-4862-8f3e-3f295335ff22)
-![image](https://github.com/srg000/image_search_engine/assets/73764670/1e4bf4c0-ca6c-4777-abe5-773f88e6ca22)
-![image](https://github.com/srg000/image_search_engine/assets/73764670/04a8df38-42dc-4a82-9cad-3b10cd3c5763)
-![image](https://github.com/srg000/image_search_engine/assets/73764670/4742ec8a-7da5-41ec-aa47-320953249405)
-![image](https://github.com/srg000/image_search_engine/assets/73764670/8163616e-63b5-4b86-ae17-9db95001739f)
-![image](https://github.com/srg000/image_search_engine/assets/73764670/fc0c0735-d5bf-46bd-b1c9-2b23f47ed7ac)
-![image](https://github.com/srg000/image_search_engine/assets/73764670/046110f4-9880-4dd7-b9cf-857d1234aed5)
+![image](https://github.com/srg000/image_search_engine/assets/73764670/3a131257-1523-489d-835b-c80019e54f41)
+![image](https://github.com/srg000/image_search_engine/assets/73764670/1fb00c1c-0c0f-4355-a16a-733dbadeaf6b)
+![image](https://github.com/srg000/image_search_engine/assets/73764670/34d39ecf-a727-400d-be31-b8c504ca0407)
+![image](https://github.com/srg000/image_search_engine/assets/73764670/8a2701a7-bc37-45eb-8d12-fbb9b1d04d49)
+![image](https://github.com/srg000/image_search_engine/assets/73764670/5d13fd57-0b29-40b9-bd59-5cad4f6dfd9c)
+![image](https://github.com/srg000/image_search_engine/assets/73764670/6639612d-a104-4e44-8e7d-25f70a7848ab)
+![image](https://github.com/srg000/image_search_engine/assets/73764670/bc91abb7-828f-4508-b31a-919af66960c3)
