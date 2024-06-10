@@ -1,6 +1,7 @@
 # image_search_engine
 基于CLIP/ViT模型搭建相似图像检索系统
 > 由于CLIP是多模态的模型，会结合图像和文本来提特征，预测的结果会比之前的模型好很多。
+
 > CLIP代码：https://github.com/OpenAI/CLIP
 
 # 数据集
