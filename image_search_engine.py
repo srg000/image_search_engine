@@ -11,6 +11,10 @@ from PIL import Image
 import timm
 import clip
 
+# 使用GPU时需要添加这两行代码
+import os
+os.environ["KMP_DUPLICATE_LIB_OK"]="TRUE"
+
 # 搜索相似图片的引擎
 device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 
@@ -68,7 +72,10 @@ def extract_feature_by_CLIP(model, preprocess, file):
     image = preprocess(Image.open(file)).unsqueeze(0).to(device)
     with torch.no_grad():
         vec = model.encode_image(image)
-        vec = vec.squeeze().numpy()
+        # 使用GPU，需要转成CPU
+        vec = vec.squeeze().cpu().numpy()  
+        # 使用CPU
+        # vec = vec.squeeze().numpy() 
     return vec
 
 
